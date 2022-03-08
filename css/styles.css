@@ -7,10 +7,10 @@
 }
 .light-bgd{
     background-color: blanchedalmond;
-    color: darkblue;
+    color: rgb(5, 5, 7);
 }
 .dark-bgd{
-    background-color: darkslateblue;
+    background-color: rgb(122, 86, 86);
     color: azure;
 }
 .btn-light{

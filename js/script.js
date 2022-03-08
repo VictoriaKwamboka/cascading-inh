@@ -8,3 +8,6 @@ $(document).ready(function(){
         $('body').addClass('dark-bgd')
     });
 });
+
+
+//You can use toggleClass
