@@ -3,4 +3,16 @@
 }
 .dogs p a{
     font-style: italic;
+    font: bold;
+}
+.light-bgd{
+    background-color: blanchedalmond;
+    color: darkblue;
+}
+.dark-bgd{
+    background-color: darkslateblue;
+    color: azure;
+}
+.btn-light{
+    background-color: antiquewhite;
 }
